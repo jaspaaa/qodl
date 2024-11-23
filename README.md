@@ -2,6 +2,20 @@
 - 👀 I’m interested in engineering, photography and finance.
 - 🌱 I’m currently learning Python.
 
+💰Support me:
+BTC: 
+```bash
+bc1q4vzsr3lvf80s4kuw5ajx9465hj7rrfv5z79h7e
+```
+
+DOGE:
+```bash
+D5eD4Hw6WxGwXXMYpiBwfv36shk55e9qAs
+```
+
+
+
+
 <!---
 qodl/qodl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
