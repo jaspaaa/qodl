@@ -1,4 +1,4 @@
-## qodl
+## Who's @qodl?
 👋 Hi, I’m @qodl
 👀 I’m interested in engineering, photography and finance.
 🌱 I’m currently learning Python.
