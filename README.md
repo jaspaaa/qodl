@@ -1,5 +1,5 @@
-## Who's @qodl?
-👋 Hi, I’m @qodl
+## Who's @jaspaaa?
+👋 Hi, I’m jaspa
 
 👀 I’m interested in engineering, photography and finance.
 
