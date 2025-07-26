@@ -3,8 +3,6 @@
 
 👀 I’m interested in engineering, photography and finance.
 
-🌱 I’m currently learning Python.
-
 ### 💰Support me:
 
 BTC: 
